@@ -14,7 +14,7 @@ repositories {
 dependencies {
     compile 'com.google.protobuf:protobuf-java:4.0.0-rc-2'
     // util dependency to convert to JSON
-    compile 'com.google.protobuf:protobuf-java-util:3.5.1'
+    compile 'com.google.protobuf:protobuf-java-util:4.0.0-rc-2'
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
